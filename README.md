@@ -7,6 +7,6 @@ We were using Ivona API. When Amazon made the Polly API announcement a few weeks
 
 I would like to acknowledge and thank Jose Padilla(https://github.com/jpadilla) for his ivona-go(https://github.com/jpadilla/ivona-go) library without which I could not have hacked this with in a few hours on a Sunday evening and have our demo working for Monday.
 
-To run the code you need AWS access key and secret code. 
+To run the code you will need AWS access key and secret code. 
 
 
