@@ -9,7 +9,8 @@ I would like to acknowledge and thank Jose Padilla(https://github.com/jpadilla) 
 
 To run the code you will need AWS access key and secret code. 
 
-Installation
+Installation:
+
 go get github.com/niyeradori/polly-go
 
 
